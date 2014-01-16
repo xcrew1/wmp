@@ -1,9 +1,9 @@
 자기소개
 ---------------------
-이름 : 방재혁
+이름 : 정희인
 
 팀 : 커머스운영팀
 
-Github Id :
+Github Id : evanjung
 
-E-mail :
+E-mail : evan@wemakeprice.com
